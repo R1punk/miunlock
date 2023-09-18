@@ -1,5 +1,12 @@
 # miunlock
+### Requirements
+- [Termux](https://f-droid.org/repo/com.termux_118.apk)
+- [Termux-API](https://f-droid.org/repo/com.termux.api_51.apk)
+
 ### Installation
+```bash
+pkg update && pkg upgrade && pkg install git
+```
 ```bash
 git clone https://github.com/R1punk/miunlock
 ```
