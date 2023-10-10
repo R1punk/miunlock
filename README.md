@@ -6,7 +6,10 @@
 git clone https://github.com/R1punk/miunlock
 ```
 - cd miunlock
+- for arm64
 - dpkg -i adb-fastboot_0.2.0-5_aarch64.deb
+- for arm32
+- termux-adb_arm32.deb
 - apt install -f
 - bash setup.sh
 - bash un.sh
