@@ -1,6 +1,6 @@
 # miunlock
 ### Installation
-- apt update
+- apt update && apt upgrade
 - apt install git
 ```bash
 git clone https://github.com/R1punk/miunlock
